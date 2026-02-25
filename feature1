@@ -1,1 +1,1 @@
-commit2
+conflict 2
